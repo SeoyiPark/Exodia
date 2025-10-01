@@ -45,6 +45,8 @@
         pay.js          # 결제 API 라우팅
         users.js        # 사용자 API 라우팅
         
+---
+
 ### app.js
 - Express 서버 구동
 - 미들웨어 등록 및 라우터 연결
