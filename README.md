@@ -45,7 +45,8 @@
         pay.js          # 결제 API 라우팅
         users.js        # 사용자 API 라우팅
 ```
-       
+---
+
 # 프로젝트 구조 및 설명
 
 ## app.js
